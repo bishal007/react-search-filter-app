@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "John Doe", "details": "Software Engineer"},
+    {"id": 2, "name": "Jane Smith", "details": "Product Manager"},
+    {"id": 3, "name": "Bob Johnson", "details": "Data Analyst"},
+    {"id": 4, "name": "Alice Brown", "details": "UX Designer"},
+    {"id": 5, "name": "Charlie Davis", "details": "Marketing Specialist"},
+    {"id": 6, "name": "Eva Wilson", "details": "HR Manager"}
+  ]
